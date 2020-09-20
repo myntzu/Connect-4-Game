@@ -1,2 +1,2 @@
 # Connect-4-Game
-Python Assignment (2019)
+First semester project; assigned to create a game of Connect 4 using Python Programming Language.
